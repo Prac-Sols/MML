@@ -6,7 +6,7 @@
     def func(x, y):
         return x**2 + y**2 + 3*x - 4*y
     
-    ## Finding the minimum and maximum in a range:
+    # Finding the minimum and maximum in a range:
     x_values = (-10, 11)
     y_values = (-10, 11)
     
