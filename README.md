@@ -1,4 +1,4 @@
-# Q1. 
+### Q1. 
 ```python
 
     def func(x, y):
