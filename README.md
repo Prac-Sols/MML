@@ -1,5 +1,6 @@
 # Q1. 
-     
+'''python
+
     def func(x, y):
         return x**2 + y**2 + 3*x - 4*y
     
@@ -24,11 +25,12 @@
                 min_point = (x, y)
     
     print("Minimum value:", min_val, "at point:", min_point)
-    print("Maximum value:", max_val, "at point", max_point)
+    print("Maximum value:", max_val, "at point", max_point) 
 
 
 
 # Q2. 
+'''python
 
     import numpy as np
     
