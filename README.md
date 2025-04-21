@@ -26,11 +26,11 @@
     
     print("Minimum value:", min_val, "at point:", min_point)
     print("Maximum value:", max_val, "at point", max_point) 
+```
 
 
-
-# Q2. 
-'''python
+### Q2. 
+```python
 
     import numpy as np
     
@@ -53,6 +53,7 @@
     A = np.array([[2, 1], [5, 3]], dtype = float)
     inverse_A = inverse_matrix(A)
     print("Inverse of A:\n", inverse_A)
+```
 
 # Q3. 
 
