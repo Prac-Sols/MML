@@ -1,6 +1,6 @@
 ### Q1. Partial Derivative:
 
-'''python
+```python
 
     import sympy as sp
     
@@ -18,11 +18,11 @@
     print("Function:", f)
     print("Partial derivative with respect to x:", partial_x)
     print("Partail derivative with respect to y:", partial_y)
-'''
+```
 
 ### Q2. Solve System of Linear Equations
 
-'''python
+```python
 
     import numpy as np
     
@@ -37,11 +37,11 @@
     print("Solution:")
     print(f"x = {solution[0]}")
     print(f"y = {solution[1]}")
-'''
+```
 
 ### Q3. Dot Product and Cross Product of Vectors
 
-'''python
+```python
 
     import numpy as np
     
@@ -59,11 +59,11 @@
     
     print("Dot product:", dot_prod)
     print("Cross product:", cross_prod)
-'''
+```
 
 ### Q4. Simpson's One-Third Rule
 
-'''python
+```python
 
     def simpsons_one_third(x, y):
         n = len(x) - 1
@@ -91,11 +91,11 @@
     integral = simpsons_one_third(x, y)
     
     print("Integral =", integral)
-'''
+```
 
 Q5. Simplex Method
 
-'''python
+```python
 
     from scipy.optimize import linprog
     
@@ -119,5 +119,5 @@ Q5. Simplex Method
     
     else:
         print("No solution found")
-'''
+```
     
