@@ -21,6 +21,7 @@ print("Partail derivative with respect to y:", partial_y)
 
 ```
 
+
 ### Q2. Solve System of Linear Equations
 
 ```python
@@ -40,6 +41,7 @@ print(f"x = {solution[0]}")
 print(f"y = {solution[1]}")
 
 ```
+
 
 ### Q3. Dot Product and Cross Product of Vectors
 
@@ -63,6 +65,7 @@ print("Dot product:", dot_prod)
 print("Cross product:", cross_prod)
 
 ```
+
 
 ### Q4. Simpson's One-Third Rule
 
@@ -94,7 +97,9 @@ y = [1, 2, 0, 2, 1]
 integral = simpsons_one_third(x, y)
     
 print("Integral =", integral)
+
 ```
+
 
 
 ### Q5. Simplex Method
