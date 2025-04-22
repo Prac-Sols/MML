@@ -2,7 +2,7 @@
 
 ```python
 
-    import sympy as sp
+import sympy as sp
     
     # Defining the variables:
     x, y = sp.symbols('x, y')
